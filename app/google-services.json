@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620414097366",
+    "project_id": "distribuidos-260c5",
+    "storage_bucket": "distribuidos-260c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620414097366:android:fef2c4d53e267b9903b677",
+        "android_client_info": {
+          "package_name": "com.example.clase18_11_21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620414097366-lpb6kfplog2mclt929l43asdn21i4q32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmLJWxCOpzamQ-aVZebWuf07EYbtW2ksE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620414097366-lpb6kfplog2mclt929l43asdn21i4q32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
